@@ -57,7 +57,7 @@ TaleVault was born to be the exact opposite. Built from the ground up to give cr
 
 ## 💬 Community & Socials
 
-* **Discord:** [Join our Discord server](#) *(Add link here)*
+* **Discord:** [Join our Discord server](https://discord.gg/4euP7ctMm)
 
 ---
 
